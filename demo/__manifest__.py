@@ -10,7 +10,7 @@
     'license': 'LGPL-3',
     'data': [
         'data/hobbies.xml',
-        'data/ir.model.access.csv',
         'data/views.xml',
+        'ir.access.csv',
     ],
 }
